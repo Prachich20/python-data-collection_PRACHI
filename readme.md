@@ -1,3 +1,12 @@
+- Farmer is the fixed model
+- Practice is the flexible model .That will evolve with more requirements
+- I have not put the limit for how many years fo data you can enter 
+- There is a unique constrain for farmer id, year, winter 
+
+
+
+/////////////////////////////////
+
 # Backend Interview Coding Challenge
 This challenge is based on a simplified design challenge the Regrow engineering team has had to solve.
 
@@ -64,3 +73,5 @@ We encourage you to edit the README, or create an additional file, to explain yo
 *Let the Regrow team know, via your point of contact (either a recruiter or our internal people team), when you are ready for us to review.** At this point you will add us as collaborators on your repository so we can view your solution. Do not raise a pull-request against the original repository.
 
 Good luck!
+
+
